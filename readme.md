@@ -24,4 +24,4 @@ wsgiref==0.1.2
 
 ![alt text](https://github.com/brenden17/NYC-taxi/blob/master/nyc/img/nyc.png "image")
 
-![alt text](https://github.com/brenden17/NYC-taxi/blob/master/nyc/img/nyc2.png "image")
+![alt text](https://github.com/brenden17/NYC-taxi/blob/master/nyc/img/density.png "image")
