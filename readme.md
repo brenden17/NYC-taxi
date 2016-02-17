@@ -22,7 +22,6 @@ wsgiref==0.1.2
 
 ~~~
 
-![alt text](https://github.com/brenden17/NYC-taxi/blob/master/img/nyc.png "image")
-27/Jan/2016 
-![alt text](https://github.com/brenden17/NYC-taxi/blob/master/img/nyc2.png "image")
-27/Jan/2016 
+![alt text](https://github.com/brenden17/NYC-taxi/blob/master/nyc/img/nyc.png "image")
+
+![alt text](https://github.com/brenden17/NYC-taxi/blob/master/nyc/img/nyc.png "image")
