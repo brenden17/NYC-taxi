@@ -4,7 +4,7 @@ This is a small Django application which recommends pickup location for taxi bas
 
 Dateset is from http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml.
 
-## Reqirements
+## Requirements
 
 * Python library
 
